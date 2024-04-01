@@ -21,4 +21,4 @@ CSS
 JavaScript
 
 ## Preview
-https://main--celadon-daffodil-7a81f9.netlify.app/
+https://etch-a-sketch-web.netlify.app/
